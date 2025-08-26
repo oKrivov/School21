@@ -1,0 +1,11 @@
+#######
+Quest 5
+#######
+
+sudo ai_door_management_module.sh
+cd door_management_files
+cat door_configuration/door_1.conf
+nano door_configuration/door_1.conf
+nano quest5.txt
+git add .
+git commit -m ""

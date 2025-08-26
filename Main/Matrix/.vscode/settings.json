@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.md": "c",
+        "vector": "c",
+        "s21_matrix.h": "c"
+    }
+}
